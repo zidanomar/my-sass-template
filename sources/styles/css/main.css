@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 1.25rem;
+  color: peachpuff;
+}
+/*# sourceMappingURL=main.css.map */
